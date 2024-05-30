@@ -19,7 +19,7 @@ Follow our comprehensive tutorial to get started and join our discord server to 
 
 ### 📸 Screenshot
 
-![Roblox Game Decompiler](https://ibb.co/Z6fyBfB)
+![Roblox Game Decompiler](https://i.ibb.co/tMHyqHq/SSGame-Decom-removebg-preview.png)
 
 ### ⚠️ Disclaimer
 
